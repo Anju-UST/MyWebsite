@@ -1,5 +1,5 @@
 
- *{
+*{
     box-sizing: border-box;
    background-color:aliceblue;
    padding: 0;
@@ -19,12 +19,12 @@
     justify-content: center;
    }
    nav a{
-    background-color: rgb(192, 218, 234);
+    background-color: rgb(192, 207, 218);
     font-size: large;
     float: left;
     display: block;
-    color: rgb(40, 29, 51);
-    padding: 20px 110px;
+    color: rgb(61, 52, 70); 
+    padding: 20px 109px;
     text-decoration: none;
    }
    nav a:hover{
